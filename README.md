@@ -1,5 +1,4 @@
-# cautious-train
-ТРАКТАТ 
+# cautious-trai
 
 ТРАКТАТ О СИМБИОНТЕ
 
